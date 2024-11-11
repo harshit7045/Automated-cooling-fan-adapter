@@ -1,0 +1,1 @@
+# Automated-cooling-fan-adapter
